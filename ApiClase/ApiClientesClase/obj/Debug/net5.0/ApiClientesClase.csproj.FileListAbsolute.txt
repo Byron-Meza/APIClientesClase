@@ -1,0 +1,139 @@
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\appsettings.json
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.exe
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.deps.json
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.runtimeconfig.json
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.runtimeconfig.dev.json
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\ref\ApiClientesClase.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.pdb
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.csprojAssemblyReference.cache
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.AssemblyInfoInputs.cache
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.AssemblyInfo.cs
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.csproj.CoreCompileInputs.cache
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\staticwebassets\ApiClientesClase.StaticWebAssets.Manifest.cache
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\staticwebassets\ApiClientesClase.StaticWebAssets.xml
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\scopedcss\bundle\ApiClientesClase.styles.css
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.RazorTargetAssemblyInfo.cache
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.csproj.CopyComplete
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ref\ApiClientesClase.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.pdb
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.genruntimeconfig.cache
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SOTEC JR\source\repos\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ref\ApiClientesClase.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\CapaDatos.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Entidades.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Servicios.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Utilidades.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Entidades.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.csprojAssemblyReference.cache
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.AssemblyInfoInputs.cache
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.AssemblyInfo.cs
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\staticwebassets\ApiClientesClase.StaticWebAssets.Manifest.cache
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\staticwebassets\ApiClientesClase.StaticWebAssets.xml
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\scopedcss\bundle\ApiClientesClase.styles.css
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.RazorTargetAssemblyInfo.cache
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.csproj.CoreCompileInputs.cache
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\appsettings.json
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.exe
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.deps.json
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.runtimeconfig.json
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.runtimeconfig.dev.json
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\ref\ApiClientesClase.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\ApiClientesClase.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\CapaDatos.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Servicios.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Utilidades.pdb
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.csproj.CopyComplete
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.genruntimeconfig.cache
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\BYRON\Desktop\Web Con Profe Juan\ApiClase\ApiClientesClase\obj\Debug\net5.0\ApiClientesClase.MvcApplicationPartsAssemblyInfo.cs
